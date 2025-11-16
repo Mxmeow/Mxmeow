@@ -4,7 +4,7 @@
 
 🎓 Computer Science Student + Electrical Engineering at NYU \
 💼 Computer Engineering Intern @ Northrop Grumman \
-📈 Aspiring Software Engineer \ 
+📈 Aspiring Software Engineer 
 
 Interests: Software Engineering | Embedded Engineering | Video processing | Vision Research \
 Currently Learning: Machine Learning, Databases, Software Engineering \
