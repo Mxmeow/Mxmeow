@@ -1,6 +1,5 @@
 # 💫 About Me
 ---
-
 👋 Hi, I'm Lucas Caceres (he/him)!
 
 🎓 **Computer Science Student + Electrical Engineering** at NYU \
