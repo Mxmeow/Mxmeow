@@ -20,8 +20,9 @@
 ---
 
 # 🔗 Connect With Me
-📍 New York
-✉️ lc4630@nyu.edu
+
+📍 New York \ 
+✉️ lc4630@nyu.edu \
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-caceres-98082823b/)
 
 ---
