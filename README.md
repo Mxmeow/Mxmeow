@@ -9,7 +9,7 @@
 Interests: Software Engineering | Embedded Engineering | Video processing | Vision Research \
 Currently Learning: Machine Learning, Databases, Software Engineering \
 Goal: Understanding all levels of the computer \
-Languages: Java, Python, C/C++, MATLAB, Arduino, HTML/CSS, SQL \ 
+Languages: Java, Python, C/C++, MATLAB, Arduino, HTML/CSS, SQL <br /> 
 Libraries/Tools: NumPy, pandas, Matplotlib, Jupyter Notebook, Git, Excel, Ultralytics YOLOv8, SAM, Psychtoolbox, Anaconda, Fastai 
 
 <!--
