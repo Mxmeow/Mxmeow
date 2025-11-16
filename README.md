@@ -8,7 +8,7 @@
 
 **Interests:** Software Engineering | Embedded Engineering | Video processing | Vision Research \
 **Currently Learning:** Machine Learning, Databases, Software Engineering \
-**Goal:** Understanding all levels of the computer \
+**Goal:** Understanding all levels of the computer 
 
 ---
 
