@@ -12,11 +12,20 @@
 
 ---
 
-🧠 Tech Stack
+# 🧠 Tech Stack
+
 **Languages:** Java, Python, C/C++, MATLAB, Arduino, HTML/CSS, SQL <br /> 
 **Libraries/Tools:** NumPy, pandas, Matplotlib, Jupyter Notebook, Git, Excel, Ultralytics YOLOv8, SAM, Psychtoolbox, Anaconda, Fastai 
 
 ---
+
+# 🔗 Connect With Me
+📍 New York
+✉️ lc4630@nyu.edu
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-caceres-98082823b/)
+
+---
+⭐ “Anything worth doing is going to be hard.” ⭐
 <!--
 **Mxmeow/Mxmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
